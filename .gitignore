@@ -1,0 +1,20 @@
+# LaTeX build files
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+*.vrb
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Python and Jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Operating systems
+Thumbs.db
+.DS_Store
