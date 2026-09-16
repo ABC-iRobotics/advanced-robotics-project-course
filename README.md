@@ -11,6 +11,8 @@ Instructors: Panna Zsoldos, Tamás Piricz.
 | Slides | [PDF](week01_classical_robotics/slides/week01_classical_robotics.pdf), [LaTeX source](week01_classical_robotics/slides/) |
 | Notebook 1: forward and inverse kinematics | [Open in Colab](https://colab.research.google.com/github/ABC-iRobotics/advanced-robotics-project-course/blob/main/week01_classical_robotics/notebooks/nb1_fk_ik_STUDENT.ipynb) |
 | Notebook 2: a mobile robot in a warehouse | [Open in Colab](https://colab.research.google.com/github/ABC-iRobotics/advanced-robotics-project-course/blob/main/week01_classical_robotics/notebooks/nb2_mobile_robot_STUDENT.ipynb) |
+| Notebook 1 with solutions, for study | [Open in Colab](https://colab.research.google.com/github/ABC-iRobotics/advanced-robotics-project-course/blob/main/week01_classical_robotics/notebooks/nb1_fk_ik_SOLVED.ipynb) |
+| **Homework 1: a warehouse robot, step by step** (individual, deadline 2 October 2026, hand in on Moodle) | [Open in Colab](https://colab.research.google.com/github/ABC-iRobotics/advanced-robotics-project-course/blob/main/week01_classical_robotics/notebooks/h1_warehouse_amr_STUDENT.ipynb) |
 
 The notebooks run in Google Colab on the free CPU runtime, with nothing to install on your laptop. After opening a notebook, choose **File → Save a copy in Drive** so that your changes are kept, then run the cells from top to bottom.
 
